@@ -1,4 +1,4 @@
-# paralax__javascript
+# parallax__javascript
 
 https://vandreys.github.io/paralax-javascript/
 
