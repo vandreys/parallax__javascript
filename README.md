@@ -1,6 +1,7 @@
 # parallax__javascript
 
-https://vandreys.github.io/paralax-javascript/
+https://vandreys.github.io/parallax__javascript/
+
 
 ## Sobre o Projeto
 
